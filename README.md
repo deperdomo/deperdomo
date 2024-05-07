@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to my Github! 👋</h1>
+<h1 align="center">¡Bienvenid@ a mi Github! 👋</h1>
 
 ###
 
@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">Hi! I'm Deivi, a first year student specialized in web application development, <br>with skills in HTML, CSS, JavaScript and frameworks like React.js. Passionate about <br>problem solving and code optimization. Committed to software quality<br> and continuous learning. <br><br>🔭 I am working as a first year student in web application development.<br>📚 I am currently learning about HTML, CSS, JavaScript and other fundamental aspects of web development.<br>⚡ In my free time, I keep myself updated on the latest technologies and participate in collaborative projects to keep learning and contributing to the web development community.</p>
+<p align="left">Hola! Soy Deivi, estudiante de primer año especializado en desarrollo de aplicaciones web, <br>con habilidades en HTML, CSS y JavaScript. Apasionado por la<br>resolución de problemas y la optimización de código. Comprometido con la calidad del software<br>y el aprendizaje continuo. <br><br>🔭 Trabajo como estudiante de primer año en desarrollo de aplicaciones web.<br>📚 Actualmente estoy aprendiendo sobre HTML, CSS, JavaScript y otros aspectos fundamentales del desarrollo web.<br>⚡ En mi tiempo libre, me mantengo actualizado sobre las últimas tecnologías y participo en proyectos colaborativos para seguir aprendiendo y contribuyendo a la comunidad de desarrollo web.</p>
 
 ###
 
