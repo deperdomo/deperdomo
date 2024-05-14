@@ -2,11 +2,9 @@
 
 ###
 
-<div align="center">
-  <img height="350" src="https://github.com/ddpm24/Foro/blob/master/assets/fotos/Perfil_github/pc_perfil.jpg?raw=true"  />
-</div>
 
-###
+
+---
 
 <div align="center">
   <a href="https://www.linkedin.com/in/deiviperdomo" target="_blank">
@@ -20,7 +18,7 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ddpm24.ddpm24&"  />
 </div>
 
-###
+---
 
 <h3 align="left">👩‍💻  About Me</h3>
 
@@ -28,7 +26,7 @@
 
 <p align="left">Hola! Soy Deivi, estudiante de primer año especializado en desarrollo de aplicaciones web, <br>con habilidades en HTML, CSS y JavaScript. Apasionado por la<br>resolución de problemas y la optimización de código. Comprometido con la calidad del software<br>y el aprendizaje continuo. <br><br>🔭 Trabajo como estudiante de primer año en desarrollo de aplicaciones web.<br>📚 Actualmente estoy aprendiendo sobre HTML, CSS, JavaScript y otros aspectos fundamentales del desarrollo web.<br>⚡ En mi tiempo libre, me mantengo actualizado sobre las últimas tecnologías y participo en proyectos colaborativos para seguir aprendiendo y contribuyendo a la comunidad de desarrollo web.</p>
 
-###
+---
 
 <p align="left"></p>
 
@@ -64,7 +62,7 @@
 
 <p align="left"></p>
 
-###
+---
 
 <h3 align="left">🔥   My Stats :</h3>
 
