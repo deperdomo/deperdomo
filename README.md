@@ -20,21 +20,16 @@
 
 ---
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻 Un Poco Sobre Mí</h3> <p align="left"> ¡Hola! Soy Deivi, actualmente cursando el segundo año en el desarrollo de aplicaciones web. Estoy aprendiendo, explorando y mejorando constantemente mis habilidades en el mundo del desarrollo web. 🌐<br><br> 💻 Me especializo en tecnologías como HTML, CSS, y JavaScript, y disfruto muchísimo resolviendo problemas complejos y buscando siempre la mejor solución en cuanto a optimización y calidad de código.<br><br> 📚 Estoy en un viaje constante de aprendizaje, trabajando duro para dominar las bases del desarrollo web, como también otras herramientas más avanzadas que me permitan construir aplicaciones sólidas y funcionales.<br><br> ⚡ En mi tiempo libre, me gusta experimentar con nuevas tecnologías, colaborar en proyectos interesantes, y mantenerme al tanto de lo último en el mundo tech. ¡Siempre hay algo nuevo por descubrir! 🚀 </p>
 
 ###
-
-<p align="left">Hola! Soy Deivi, estudiante de primer año especializado en desarrollo de aplicaciones web, <br>con habilidades en HTML, CSS y JavaScript. Apasionado por la<br>resolución de problemas y la optimización de código. Comprometido con la calidad del software<br>y el aprendizaje continuo. <br><br>🔭 Trabajo como estudiante de primer año en desarrollo de aplicaciones web.<br>📚 Actualmente estoy aprendiendo sobre HTML, CSS, JavaScript y otros aspectos fundamentales del desarrollo web.<br>⚡ En mi tiempo libre, me mantengo actualizado sobre las últimas tecnologías y participo en proyectos colaborativos para seguir aprendiendo y contribuyendo a la comunidad de desarrollo web.</p>
-
----
 
 <p align="left"></p>
 
-###
+---
 
 <h3 align="left">🛠 Language and tools</h3>
 
-###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
@@ -52,10 +47,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="16" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+  
 </div>
 
 ###
