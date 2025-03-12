@@ -1,10 +1,10 @@
+
 <h1 align="center">¡Bienvenid@ a mi Github! 👋</h1>
 
 ###
+<img src="img/baner.png">
 
-
-
----
+<br>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/deiviperdomo" target="_blank">
@@ -20,52 +20,41 @@
 
 ---
 
-<h3 align="left">👩‍💻 Un Poco Sobre Mí</h3> <p align="left"> ¡Hola! Soy Deivi, actualmente cursando el segundo año en el desarrollo de aplicaciones web. Estoy aprendiendo, explorando y mejorando constantemente mis habilidades en el mundo del desarrollo web. 🌐<br><br> 💻 Me especializo en tecnologías como HTML, CSS, y JavaScript, y disfruto muchísimo resolviendo problemas complejos y buscando siempre la mejor solución en cuanto a optimización y calidad de código.<br><br> 📚 Estoy en un viaje constante de aprendizaje, trabajando duro para dominar las bases del desarrollo web, como también otras herramientas más avanzadas que me permitan construir aplicaciones sólidas y funcionales.<br><br> ⚡ En mi tiempo libre, me gusta experimentar con nuevas tecnologías, colaborar en proyectos interesantes, y mantenerme al tanto de lo último en el mundo tech. ¡Siempre hay algo nuevo por descubrir! 🚀 </p>
+## 👩‍💻 Un Poco Sobre Mí
 
-###
-
-<p align="left"></p>
-
----
-
-<h3 align="left">🛠 Language and tools</h3>
-
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  
-</div>
-
-###
-
-<p align="left"></p>
+<p align="left"> ¡Hola! Soy Deivi, estudiante de segundo año en desarrollo de aplicaciones web. 🌐<br>
+<br> 💻 Me especializo en el desarrollo de aplicaciones web completas, integradas con arquitectura de microservicios.<br>
+<br> 📚 EsSiempre en aprendizaje, mejorando mis habilidades y explorando herramientas avanzadas.<br>
+<br> ⚡ Disfruto experimentar con nuevas tecnologías, colaborar en proyectos y estar al día con el mundo tech. 🚀 </p>
 
 ---
 
-<h3 align="left">🔥   My Stats :</h3>
+## 🛠 Lenguajes y Herramientas
 
-###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ddpm24&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true&order=2&cache_seconds=5&hide=Less,SCSS&exclude_repo=pandas_exercises,repo2" height="210" alt="languages graph" />
+ <code><img width="50" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java"/></code>
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  /></code>
+  <img width="16" />
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  /></code>
+  <img width="16" />
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  /></code>
+  <img width="16" />
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  /></code>
+  <img width="16" />
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  /></code>
+  <img width="16" />
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  /></code>
+  <img width="16" />
+  	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/></code>
 </div>
 
 
+---
 
-###
+## 🔥 Mis Estadísticas
 
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ddpm24&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true&order=2&cache_seconds=5&hide=Less,SCSS&exclude_repo=pandas_exercises,repo2" height="210" alt="Languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ddpm24&show_icons=true&theme=tokyonight&hide_border=true" height="210" alt="GitHub stats" />
+</div>
