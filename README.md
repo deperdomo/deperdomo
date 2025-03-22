@@ -26,8 +26,8 @@
  💻 Desarrollo de aplicaciones web completas, integradas con arquitectura de microservicios.<br>
 <br> 📚 Siempre estoy aprendiendo, mejorando mis habilidades y explorando nuevas herramientas.<br>
 <br> ⚡ Disfruto colaborar en proyectos y estar al día con el mundo tech. 🚀 <br>
-<br> 📫 Contáctame: <a href="mailto:deiviperdomo@outlook.com">
-    deiviperdomo@outlook.com
+<br> 📫 Contáctame: <a href="mailto:deiviperdomo@outlook.es">
+    deiviperdomo@outlook.es
   </a> 
 </p>
 
