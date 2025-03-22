@@ -1,11 +1,11 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8c0ac6&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7093ff&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8c0ac6&size=35&center=true&vCenter=true&width=1000&lines=HOLA,+mi+nomnre+es+Deivi+Perdomo;Soy+Desarrollador+de+Aplicaciones+WEB+UFC;¡Bienvenid@+a+mi+Github!)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7093ff&size=35&center=true&vCenter=true&width=1000&lines=HOLA,+mi+nomnre+es+Deivi+Perdomo;Soy+Desarrollador+de+Aplicaciones+WEB)](https://git.io/typing-svg) 
 
 <h1 align="center">¡Bienvenid@ a mi Github! 👋</h1>
 
 ###
-<img src="img/baner.png">
+
 
 
 <div align="center">
@@ -22,10 +22,11 @@
 
 ## 👩‍💻 Un Poco Sobre Mí
 
-<p align="left"> ¡Hola! Soy Deivi, estudiante de segundo año en desarrollo de aplicaciones web. 🌐<br>
-<br> 💻 Me especializo en el desarrollo de aplicaciones web completas, integradas con arquitectura de microservicios.<br>
-<br> 📚 EsSiempre en aprendizaje, mejorando mis habilidades y explorando herramientas avanzadas.<br>
-<br> ⚡ Disfruto experimentar con nuevas tecnologías, colaborar en proyectos y estar al día con el mundo tech. 🚀 </p>
+<p align="left"> 
+ 💻 Desarrollo de aplicaciones web completas, integradas con arquitectura de microservicios.<br>
+<br> 📚 Siempre estoy aprendiendo, mejorando mis habilidades y explorando nuevas herramientas.<br>
+<br> ⚡ Disfruto colaborar en proyectos y estar al día con el mundo tech. 🚀 
+</p>
 
 ---
 
@@ -67,4 +68,4 @@
 
 
 
- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8c0ac6&height=120&section=footer"/>
+ <!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8c0ac6&height=120&section=footer"/> -->
