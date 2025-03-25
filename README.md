@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7093ff&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7093ff&size=35&center=true&vCenter=true&width=1000&lines=HOLA,+mi+nomnre+es+Deivi+Perdomo;Soy+Desarrollador+de+Aplicaciones+WEB)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7093ff&size=35&center=true&vCenter=true&width=1000&lines=HOLA,+mi+nombre+es+Deivi+Perdomo;Soy+Desarrollador+de+Aplicaciones+WEB)](https://git.io/typing-svg) 
 
 <h1 align="center">¡Bienvenid@ a mi Github! 👋</h1>
 
@@ -23,7 +23,7 @@
 ## 👩‍💻 Un Poco Sobre Mí
 
 <p align="left"> 
- 💻 Desarrollo de aplicaciones web completas, integradas con arquitectura de microservicios.<br>
+ 💻 Desarrollo aplicaciones web completas con arquitectura de microservicios.<br>
 <br> 📚 Siempre estoy aprendiendo, mejorando mis habilidades y explorando nuevas herramientas.<br>
 <br> ⚡ Disfruto colaborar en proyectos y estar al día con el mundo tech. 🚀 <br>
 <br> 📫 Contáctame: <a href="mailto:deiviperdomo@outlook.es">
