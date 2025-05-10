@@ -61,10 +61,10 @@
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ddpm24&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&color=E3E3E3&text_color=DEDEDE&hide_border=true&order=2&cache_seconds=5&hide=Less,SCSS&exclude_repo=pandas_exercises,repo2" height="210" alt="Languages graph" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=deperdomo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&color=E3E3E3&text_color=DEDEDE&hide_border=true&order=2&cache_seconds=5&hide=Less,SCSS&exclude_repo=pandas_exercises,repo2" height="210" alt="Languages graph" />
     </td>
     <td>
-      <img height="192px" src="https://github-readme-stats.vercel.app/api?username=ddpm24&show_icons=true&theme=tokyonight&rank_icon=github&color=E3E3E3&text_color=DEDEDE&hide_border=true&custom_title=GitHub⠀Stats&show_icons=true"/>
+      <img height="192px" src="https://github-readme-stats.vercel.app/api?username=deperdomo&show_icons=true&theme=tokyonight&rank_icon=github&color=E3E3E3&text_color=DEDEDE&hide_border=true&custom_title=GitHub⠀Stats&show_icons=true"/>
     </td>
   </tr>
 </table>
